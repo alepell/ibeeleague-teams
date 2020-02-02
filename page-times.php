@@ -5,7 +5,7 @@
   );
   $times = new WP_Query($args);
 
-  get_header();
+  get_header(); 
 
 ?>
 
