@@ -161,6 +161,7 @@
   
     <script>
       //script de adicionar cores aos tipos dinamicamente
+      //comentario teste
       function adicionaTipo() {
         var tipos = document.querySelectorAll('.tipo');
         
