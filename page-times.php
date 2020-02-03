@@ -172,7 +172,7 @@
       width: 25%;
     }
     .team__list li {
-      box-shadow: 1px 1px 5px grey;
+      box-shadow: 1px 1px 5px #e8e8e8;
       margin-top: 15px;
       padding: 7px;
       width: 100%;
